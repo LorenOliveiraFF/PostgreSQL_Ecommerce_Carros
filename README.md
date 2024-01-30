@@ -1,8 +1,13 @@
 # PostgreSQL_Ecommerce_Carros
-Projeto desenvolvido em PostgreSQL com Dashboard desenvolvido no Excel.
+Projeto desenvolvido em PostgreSQL com Dashboard desenvolvido em Excel.
 
-Nos arquivos, você encontrará:
-1. As imagens dos DASHBOARDS que foram gerados na ferramenta Excel.
-2. Os arquivos .xlsx do Excel com: dashboard, os resultados das querys e as próprias querys que criei para gerar o Dashboard.
-3. Os arquivos em SQL para: (1) Criação do Banco, (2) Projeto de Vendas (com todas as querys), (3) Projeto do Perfil Analítico dos Clientes (com todas as querys).
+Nos arquivos do Projeto "E-commerce de Carros", você encontrará:
+
+⇢ As imagens dos dashboards que foram construídos através da ferramenta Excel 📊
+⇢ Os arquivos .xlsx do Excel com as sheets: Dashboard, Resultados e Querys 📂
+⇢ Os arquivos em .sql contendo: 
+  • script para criação do Banco de Dados completo;
+  • script com todas as querys (5) realizadas para extração de dados necessários para a criação do dashboard de Vendas;
+  • script com todas as querys (7) realizadas para extração de dados necessários para a criação do dashboard de Perfil Analítico dos Clientes;
+
 
