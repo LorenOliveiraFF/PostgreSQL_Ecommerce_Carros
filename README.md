@@ -9,10 +9,10 @@ Nos arquivos do Projeto "E-commerce de Carros", você encontrará:
 
 ⇢ Os arquivos em .sql contendo: 
 
-  • script para criação do Banco de Dados completo;
+    • script para criação do Banco de Dados completo;
   
-  • script com todas as querys (5) realizadas para extração de dados necessários para a criação do dashboard de Vendas;
+    • script com todas as querys (5) realizadas para extração de dados necessários para a criação do dashboard de Vendas;
   
-  • script com todas as querys (7) realizadas para extração de dados necessários para a criação do dashboard de Perfil Analítico dos Clientes;
+    • script com todas as querys (7) realizadas para extração de dados necessários para a criação do dashboard de Perfil Analítico dos Clientes;
 
 Projetos realizados durante curso na plataforma Udemy 💻!
